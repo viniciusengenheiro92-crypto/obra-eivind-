@@ -1,0 +1,1 @@
+Envie index.html, manifest.webmanifest e sw.js para a raiz do repositório obra-eivind no GitHub. Depois ative Configurações > Páginas > main > /(raiz).
